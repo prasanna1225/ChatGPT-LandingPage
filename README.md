@@ -1,13 +1,17 @@
-# ChatGPT-LandingPage
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### ChatGPT-LandingPage
 
 
-#Installation
-Clone the repository: git clone https://github.com/prasanna1225/ChatGPT-LandingPage.git
-Install dependencies: npm install
-Start the development server: npm start
+## Description
 
+This is a Landing Page for ChatGPT.
+
+### Installation
+
+- Fork the repo to your github
+- clone it using the command `git clone https://github.com/your-username/your-project.git`
+- Navigate to the project directory `cd your-project`
+- Install dependencies  `npm install`
+- Start the development server: `npm start`
 
 ### `npm start`
 
