@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# ChatGPT-LandingPage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+#Installation
+Clone the repository: git clone https://github.com/prasanna1225/ChatGPT-LandingPage.git
+Install dependencies: npm install
+Start the development server: npm start
+
 
 ### `npm start`
 
